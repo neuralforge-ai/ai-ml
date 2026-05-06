@@ -1,10 +1,5 @@
 # 🤖 AI & Machine Learning Projects
 
-4th Semester BS Artificial Intelligence assignments 
-using real-world datasets.
-
-## 📁 Projects
-
 ### Task 1 - Forest Fires Prediction (Supervised Learning)
 - **Algorithm**: Random Forest Regressor
 - **Dataset**: UCI Forest Fires (517 instances, 12 features)
